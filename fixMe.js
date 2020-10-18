@@ -1,1 +1,1 @@
-consol.log("this is not a broken message")
+console.log("this is not a broken message")
